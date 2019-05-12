@@ -6,7 +6,10 @@ public class Demo1 {
 	}
 	
 	public void test() {
-		System.out.println("");
+
+
+		System.out.println("新增加方法");
+
 		
 	}
 }
